@@ -18,7 +18,6 @@ Boothや遊舎工房など自分が販売または委託している以外での
 
 ファームウェアに[qmk_firmware](https://github.com/qmk/qmk_firmware)を採用しています。<br>
 QMKにReex67のコードはまだマージされていませんのでこの[ブランチ](https://github.com/kushima8/qmk_firmware/tree/reex)を使用してください。<br>
-動作確認の為の[HEXファイル](　)を用意しています。<br>
 
 キット作成前にPro Microの書き込み環境の構築を行ってください。<br>
 ファームウェアの書き込み環境の構築については下記のサリチル酸さんのサイトを参考にしてください。<br>
@@ -110,8 +109,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * [コンスルー - Self-Made Keyboards in Japan - ](https://scrapbox.io/self-made-kbds-ja/%E3%82%B3%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%BC)<br>
   ![006](https://user-images.githubusercontent.com/58157342/89108152-21b31980-d471-11ea-9df6-11b106120852.JPG)
 * 3.ファームウェアの書き込み
-  * [Reex67_test.hex](https://github.com/kushima8/Reex67/tree/main/HEX)を指定してファームウェアを書き込んでください。
-  * [REMAP](　)でもファームウェアを書き込めるようにしております。
+  * このブランチを用いてファームウェアを自前でコンパイルし、書き込んでください。
 * 4.センサーのはんだ付け
   * ブレイクアウトボードの既にICがはんだ付けされている⾯を表にし、4PINが2列になっている方を左側してください。
   * センサーチップの「A24」と⽂字が書かれている⽅を下にして基盤にセットしたあと、裏面からはんだ付けをしてください。<br>
