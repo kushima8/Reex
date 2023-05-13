@@ -129,7 +129,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
   * 密着しすぎるとベアリングがうまく回らない場合があります。<br>
   ![007](https://user-images.githubusercontent.com/58157342/234977353-ee923e26-73f6-49c2-a75a-65f784d3f31f.JPG)
   * ケースを裏返して、M2 10mmネジを画像の三箇所に挿入してください。
-  * 挿入後、M2 6mmスペーサー、M2 9mmスペーサーの順でネジに取り付けます。
+  * 挿入後、M2 6mmスペーサー、M2 10mmスペーサーの順でネジに取り付けます。
   * これは玉飛び出し防止用の支柱になります。<br>
   ![007](https://user-images.githubusercontent.com/58157342/234977419-2490f4e2-41cc-4ec2-8b80-28b67c1d7c68.JPG)
   ![007](https://user-images.githubusercontent.com/58157342/234977441-af8062cf-d598-4191-a983-1763e4bfcdbd.JPG)
