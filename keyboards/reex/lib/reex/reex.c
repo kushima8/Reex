@@ -335,7 +335,7 @@ void reex_oled_render_ballinfo(void) {
     oled_write(format_4d(reex.last_mouse.h), false);
     oled_write(format_4d(-reex.last_mouse.v), false);
     // CPI
-    oled_write_P(PSTR("    CPI"), false);
+    oled_write_P(PSTR("     CPI"), false);
     oled_write(format_4d(reex_get_cpi()) + 1, false);
     oled_write_P(PSTR("00  S"), false);
     oled_write_char(reex.scroll_mode ? '1' : '0', false);
