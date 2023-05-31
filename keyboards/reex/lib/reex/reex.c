@@ -321,20 +321,21 @@ const char PROGMEM code_to_name[] = {
 
 void reex_oled_render_ballinfo(void) {
 #ifdef OLED_ENABLE
-    // Format: `Ball :{mouse x}{mouse y}{mouse h}{mouse v}`
-    //         `    CPI{CPI} S{SCROLL_MODE} D{SCROLL_DIV}`
+    // Format: `Ball {mouse x}{mouse y}{mouse h}{mouse v}`
+    //         `     CPI{CPI} S{SCROLL_MODE} D{SCROLL_DIV}`
     //
     // Output example:
     //
-    //     Ball : -12  34   0   0
+    //     Ball  -12  34   0   0
+    //          CPI  500  S0  D4
     //
-    oled_write_P(PSTR("Ball :"), false);
+    oled_write_P(PSTR("Ball "), false);
     oled_write(format_4d(reex.last_mouse.x), false);
     oled_write(format_4d(-reex.last_mouse.y), false);
     oled_write(format_4d(reex.last_mouse.h), false);
     oled_write(format_4d(-reex.last_mouse.v), false);
     // CPI
-    oled_write_P(PSTR("      CPI"), false);
+    oled_write_P(PSTR("    CPI"), false);
     oled_write(format_4d(reex_get_cpi()) + 1, false);
     oled_write_P(PSTR("00  S"), false);
     oled_write_char(reex.scroll_mode ? '1' : '0', false);
@@ -345,7 +346,7 @@ void reex_oled_render_ballinfo(void) {
 
 void reex_oled_render_keyinfo(void) {
 #ifdef OLED_ENABLE
-    // Format: `Key  :  R{row}  C{col} K{kc}  '{name}`
+    // Format: `Key    R{row}  C{col} K{kc}  '{name}`
     //
     // Where `kc` is lower 8 bit of keycode.
     // Where `name` is readable label for `kc`, valid between 4 and 56.
@@ -353,12 +354,11 @@ void reex_oled_render_keyinfo(void) {
     // It is aligned to fit with output of reex_oled_render_ballinfo().
     // For example:
     //
-    //     Key  :  R2  C3 K06  'c
-    //     Ball :   0   0   0   0
+    //     Key    R2  C3 K06  'c
     //
     uint8_t keycode = reex.last_kc;
 
-    oled_write_P(PSTR("Key  :  R"), false);
+    oled_write_P(PSTR("Key    R"), false);
     oled_write_char(to_1x(reex.last_pos.row), false);
     oled_write_P(PSTR("  C"), false);
     oled_write_char(to_1x(reex.last_pos.col), false);
@@ -379,19 +379,16 @@ void reex_oled_render_keyinfo(void) {
 
 void reex_oled_render_layerinfo(void) {
 #ifdef OLED_ENABLE
-    // Format: `Layer: {layer}
+    // Format: `Layer   {layer}
     //
     // It is aligned to fit with output of reex_oled_render_ballinfo().
     // For example:
     //
-    //     Layer:   0
-    //     Key  :  R2  C3 K06  'c
-    //     Ball :   0   0   0   0
+    //     Layer   0
     //
-    uint8_t layer = get_highest_layer(state);
-
-    oled_write_P(PSTR("Layer:   "), false);
-    oled_write_char(to_1x(layer), false);
+    oled_write_P(PSTR("Layer   "), false);
+    oled_write_char(to_1x(get_highest_layer(layer_state)), false);
+    oled_write_ln_P(PSTR(" "), false);
 #endif
 }
 
