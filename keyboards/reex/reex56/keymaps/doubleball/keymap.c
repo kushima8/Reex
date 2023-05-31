@@ -57,9 +57,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     // |--------+--------+--------+--------+--------+--------|        |--------+--------+--------+--------+--------+-------------|
         KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,         KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,
     // |--------+--------+--------+--------+--------+--------|        |--------+--------+--------+--------+--------+-------------|
-        KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,         KBC_RST ,SCRL_MO ,CPI_I100,CPI_I1K ,SCRL_DVI,KC_TRNS ,
+        KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,         KBC_RST ,SCRL_TO ,CPI_I100,CPI_I1K ,SCRL_DVI,KC_TRNS ,
     // |--------+--------+--------+--------+--------+--------|        |--------+--------+--------+--------+--------+-------------|
-        KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,         KBC_SAVE,SCRL_TO ,CPI_D100,CPI_D1K ,SCRL_DVD,KC_TRNS ,
+        KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,KC_TRNS ,         KBC_SAVE,SCRL_MO ,CPI_D100,CPI_D1K ,SCRL_DVD,KC_TRNS ,
     // |--------+--------+--------+--------+--------+--------|        |--------+--------+--------+--------+--------+-------------|
         KC_TRNS ,KC_TRNS ,KC_TRNS                   ,KC_TRNS ,         KC_TRNS                   ,KC_TRNS ,KC_TRNS ,KC_TRNS
     // `--------+--------+--------+--------+--------+--------|        |--------+--------+--------+--------+--------+-------------'

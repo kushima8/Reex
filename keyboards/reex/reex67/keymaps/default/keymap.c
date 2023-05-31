@@ -91,7 +91,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     // |--------+--------+--------+--------+--------+--------|                             |--------+--------+--------+--------+--------+--------+--------+--------|
         KC_LSFT ,KC_Z    ,KC_X    ,KC_C    ,KC_V    ,KC_B    ,                              KC_N    ,KC_M    ,KC_COMM ,KC_DOT  ,KC_SLSH ,KC_RSFT ,KC_UP   ,FN ,
     // |--------+--------+--------+--------+--------+--------|                             |--------+--------+--------+--------+--------+--------+--------+--------|
-        KC_LCTL ,BALL    ,KC_LALT                   ,MOUSE   ,                              KC_SPC  ,                  KC_RALT ,KC_RGUI ,KC_LEFT ,KC_DOWN ,KC_RGHT
+        KC_LCTL ,BALL    ,KC_LALT                   ,KC_SPC  ,                              KC_SPC  ,                  KC_RALT ,KC_RGUI ,KC_LEFT ,KC_DOWN ,KC_RGHT
     // `--------+--------+--------+--------+--------+--------|                             |--------+--------+--------+--------+--------+--------+--------+--------'
     ),
     [1] = LAYOUT(
