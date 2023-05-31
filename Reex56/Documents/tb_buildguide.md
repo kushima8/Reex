@@ -176,7 +176,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
     ![021](https://user-images.githubusercontent.com/58157342/234977729-02b9e42d-dd73-44de-a8c7-8c59aa1ccf1d.JPG)
     * その後ブレイクアウトボードを取り付けてください。
     * ブレイクアウトボード取り付け後、M2 3.5mmスペーサーを設置してください。<br>
-    ![021](https://user-images.githubusercontent.com/58157342/234977808-236c975c-92cc-4fd7-a2db-700f9680f785.JPG)
+    ![021](https://github-production-user-asset-6210df.s3.amazonaws.com/58157342/242346360-297ad832-d8ab-4e06-a200-3d574702ee2d.JPG)
   * 12.2 下段取り付け
     * ケース下側のネジ⽳にM2 10mmネジを⼀つづ⼊れください。
     * 先程入れた下側ネジにM2 4mmスペーサーを取り付けます。
@@ -186,7 +186,7 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
     ![021](https://user-images.githubusercontent.com/58157342/234978630-42d41a7e-e29c-4988-b2a7-3a5f40a5a08d.JPG)
     * その後ブレイクアウトボードを取り付けてください。
     * ブレイクアウトボード取り付け後、M2 3.5mmスペーサーを設置してください。<br>
-    ![021](https://github-production-user-asset-6210df.s3.amazonaws.com/58157342/242346360-297ad832-d8ab-4e06-a200-3d574702ee2d.JPG)
+    ![021](https://user-images.githubusercontent.com/58157342/234978791-1755cf51-db6c-41f8-82b0-c8562bdb5ab6.JPG)
 * 13.キースイッチの取り付け
   * トッププレートの穴にキースイッチを取り付けてください。<br>
   ![030](https://user-images.githubusercontent.com/58157342/235356355-3dde26da-10a3-4e54-87d6-cc1b0c695376.JPG)
