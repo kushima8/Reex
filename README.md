@@ -5,8 +5,8 @@ Modular Split keyboards
 # Build Guide
 
 ## Reex56
-[ビルドガイド（日本語）](Reex56/Documents/buildguide.md)
+[ビルドガイド（日本語）](Reex56/Documents/tb_buildguide.md)
 ## Reex67
-[ビルドガイド（日本語）](Reex67/Documents/buildguide.md)
+[ビルドガイド（日本語）](Reex67/Documents/tb_buildguide.md)
 
 ![120px-Cc-by-nc-sa_icon svg](https://user-images.githubusercontent.com/58157342/87903527-24883480-ca97-11ea-86a5-e6abcf258247.png)
