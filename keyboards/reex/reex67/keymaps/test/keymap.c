@@ -53,6 +53,7 @@ void keyboard_post_init_user(void) {
 #    include "lib/oledkit/oledkit.h"
 
 void oledkit_render_info_user(void) {
+    reex_oled_render_layerinfo();
     reex_oled_render_keyinfo();
     reex_oled_render_ballinfo();
 }

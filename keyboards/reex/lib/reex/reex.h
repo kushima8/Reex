@@ -143,6 +143,10 @@ void reex_oled_render_ballinfo(void);
 /// It shows column, row, key code, and key name (if available).
 void reex_oled_render_keyinfo(void);
 
+/// reex_oled_render_layerinfo renders layer information to OLED.
+/// Currently active layer information is displayed.
+void reex_oled_render_layerinfo(void);
+
 /// reex_get_scroll_mode gets current scroll mode.
 bool reex_get_scroll_mode(void);
 
