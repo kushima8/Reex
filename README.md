@@ -1,6 +1,7 @@
 # Reex
 Modular Split keyboards
-![00](https://user-images.githubusercontent.com/58157342/236686607-e0523119-3d03-4426-aeb5-2dbed56bc8e2.jpg)
+![00](https://github.com/kushima8/Reex/assets/58157342/7abb2f23-e5d2-43d9-a5a9-e36094478a6b)
+![01](https://github.com/kushima8/Reex/assets/58157342/b14c8ccc-9b4e-410d-996b-9e1b137d5095)
 
 # Build Guide
 
