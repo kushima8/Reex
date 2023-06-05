@@ -1,6 +1,6 @@
 # Reex56 (TB版) ビルドガイド
 ## はじめに
-![000](https://user-images.githubusercontent.com/58157342/235356626-f448cd42-1fd0-4602-a764-8b5696b4f478.jpg)
+![000](https://github.com/kushima8/Reex/assets/58157342/280e775e-dcaf-4d73-8689-5538b42fecf4)
 
 このたびはご購入いただきありがとうございます。<br>
 本製品は組み立てが必要なキットです。<br>
