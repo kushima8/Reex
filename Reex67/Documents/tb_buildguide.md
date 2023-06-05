@@ -1,6 +1,6 @@
 # Reex67 (TB版) ビルドガイド
 ## はじめに
-![000](https://user-images.githubusercontent.com/58157342/235356872-9c164fa6-2d47-43be-9bbd-5ed5d8aa0a5b.jpg)
+![000](https://github.com/kushima8/Reex/assets/58157342/9d3c4d45-e07b-4a00-93d6-5cd17bdf3c89)
 
 このたびはご購入いただきありがとうございます。<br>
 本製品は組み立てが必要なキットです。<br>
