@@ -1,4 +1,4 @@
-# Reex67 (TB版) ビルドガイド
+# Reex67 ビルドガイド
 ## はじめに
 ![000](https://github.com/kushima8/Reex/assets/58157342/9d3c4d45-e07b-4a00-93d6-5cd17bdf3c89)
 
