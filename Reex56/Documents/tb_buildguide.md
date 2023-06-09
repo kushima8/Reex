@@ -1,4 +1,4 @@
-# Reex56 (TB版) ビルドガイド
+# Reex56 ビルドガイド
 ## はじめに
 ![000](https://github.com/kushima8/Reex/assets/58157342/280e775e-dcaf-4d73-8689-5538b42fecf4)
 
