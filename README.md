@@ -6,7 +6,8 @@ Modular Split keyboards
 # Build Guide
 
 ## Reex56
-[ビルドガイド（日本語）](Reex56/Documents/tb_buildguide.md)
+[ビルドガイド（日本語）](Reex56/Documents/tb_buildguide.md)  
+https://shop.yushakobo.jp/products/7793
 ## Reex67
 [ビルドガイド（日本語）](Reex67/Documents/tb_buildguide.md)
 
