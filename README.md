@@ -11,7 +11,8 @@ https://shop.yushakobo.jp/products/7930
 
 ## Reex56
 [ビルドガイド（日本語）](Reex56/Documents/tb_buildguide.md)  
-https://shop.yushakobo.jp/products/7793
+https://shop.yushakobo.jp/products/7793  
+
 ## Reex67
 [ビルドガイド（日本語）](Reex67/Documents/tb_buildguide.md)  
 https://shop.yushakobo.jp/products/7930  
