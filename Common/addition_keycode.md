@@ -12,18 +12,3 @@
 |SCRL_DVD|SCRL_DVD| スクロール除数を１つ下げる(min D0 = 1/1)←最もスクロール速い|
   
 ※DoubleBall時マウス操作ボールとスクロールボールの入れ替え  
-  
-以下defaultのみ実装  
-  
-| キーコード | Remap上での表記 | 説明 |
-|----|:---:|----|
-|KC_MY_BTN1|MY_BTN1|左クリック|
-|KC_MY_BTN2|MY_BTN2|左クリック|
-|KC_MY_BTN3|MY_BTN3|OS依存|
-|KC_MY_BTN4|MY_BTN4|戻る|
-|KC_MY_BTN5|MY_BTN5|進む|
-|KC_MY_SCR|MY_SCR|押下中スクロールモード|
-|KC_TC_INC|TC_INC|マウスレイヤーが有効になるまでの待機時間増加|
-|KC_TC_DEC|TC_DEC|マウスレイヤーが有効になるまでの待機時間減少|
-|KC_SD_V|SD_V|スクロール時の方向を変更|
-|KC_SD_H|SD_H|スクロール時の方向を変更|

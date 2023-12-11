@@ -235,15 +235,10 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 独自追加キーコードに関しては[addition_keycode](https://github.com/kushima8/Reex/tree/main/Common/addition_keycode.md)にて確認してください。  
   
 * reex67_default.hex
-  * 単一ボール用
   * VIA対応
   * レイヤー4枚
-  * ボールを一定動かすと3番レイヤー(マウスレイヤー)に自動遷移  
+  * 2番レイヤーのみボールを一定動かすと3番レイヤー(マウスレイヤー)に自動遷移  
     ボールを停止して一定時間経過か、LCTRLと設定したマウスキーやスクロールキー以外を押下すると遷移前レイヤーに戻る  
-* reex67_doubleball.hex
-  * 片側一玉ずつのダブルボール用
-  * VIA対応
-  * レイヤー4枚
 * reex67_test.hex
   * 動作確認用
   * VIA対応
