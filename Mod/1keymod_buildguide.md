@@ -4,6 +4,7 @@
 1キー拡張はReex67の下記画像赤枠の位置へのみ取り付け可能です。
   
 ![000](https://github.com/kushima8/Reex/assets/58157342/8cc824f0-6271-415a-b8aa-4e33cc567823)
+![001](https://github.com/kushima8/Reex/assets/58157342/d06c4f7d-4a18-4441-8cb6-8ce5c2adb3e7)
 
 キー拡張は同一側に一つのみ増設可能です。  
 ロータリーエンコーダ拡張、トラックボール拡張との同一側での併用は可能です。  
@@ -43,7 +44,7 @@
 　下記赤枠はキースイッチ取り付け位置です。  
 　ソケットの実装は赤枠の裏に行ってください。  
 
-  ![0000](https://github.com/kushima8/Reex/assets/58157342/4b6325ff-d3ba-44c5-8215-0f70e960622b)
+  ![002](https://github.com/kushima8/Reex/assets/58157342/4b6325ff-d3ba-44c5-8215-0f70e960622b)
 
 * 1.ファームウェアの書き込み
   * [reex67mod_default.hex](https://github.com/kushima8/Reex/tree/main/Reex67/HEX/mod/reex56mod_default.hex)を指定してファームウェアを書き込んでください。
@@ -76,7 +77,7 @@
   * Reex本体基盤の複数同じ印字がありますが、どちらに刺しても問題ありません。
   * 配線に関しては下記が画像を参考にしてください。
     
-  ![014](https://github.com/kushima8/Reex/assets/58157342/67bf763e-5240-454a-bdf7-27dcf03619a6)
+  ![004](https://github.com/kushima8/Reex/assets/58157342/67bf763e-5240-454a-bdf7-27dcf03619a6)
   * 接続後、キースイッチを取り付け入力可能かテストを行ってください。
   * 接続位置の都合上TECSEE Pudding Mediumなど通常よりロープロファイルのスイッチを使用することをおすすめします。  
   * 問題なければボトムプレートを配置し、4mmネジで固定してください。

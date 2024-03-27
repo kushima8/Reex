@@ -3,8 +3,9 @@
 ## はじめに
 3キー拡張はReex56またはReex67の下記画像赤枠の位置へのみ取り付け可能です。  
 ※Reex67とReex56の差異はキースイッチ部分だけであり拡張取り付け部分は同一であるため、Reex67の画像は省略しております。  
+  
 ![000](https://github.com/kushima8/Reex/assets/58157342/13be064b-57c3-4dbb-8dd5-9d1bbb00b665)
-
+![001](https://github.com/kushima8/Reex/assets/58157342/5f92a57c-bd51-4e64-9fd8-7b81c8c0ed7b)
 キー拡張は同一側に一つのみ増設可能です。  
 ロータリーエンコーダ拡張、トラックボール拡張との同一側での併用は可能です。  
 （例：○ 右側 1キー拡張＋ロータリーエンコーダ拡張、左側 3キー拡張＋トラックボール拡張  
@@ -76,16 +77,16 @@
   　・11mmスペーサー  
   となるようにセットし、上から6mmネジで固定してください。  
     
-  ![003](https://github.com/kushima8/Reex/assets/58157342/04f533cc-cad8-4fc5-b013-d7c2864703c7)
-  ![013](https://github.com/kushima8/Reex/assets/58157342/ad7381e9-84b1-4c5e-9eaa-d6ed69cfa715)
+  ![002](https://github.com/kushima8/Reex/assets/58157342/04f533cc-cad8-4fc5-b013-d7c2864703c7)
+  ![012](https://github.com/kushima8/Reex/assets/58157342/ad7381e9-84b1-4c5e-9eaa-d6ed69cfa715)
 * 5.疎通テスト
   * 拡張基盤とReex本体基盤をテストワイヤで繋いでください。
   * 接続箇所は拡張基盤の印字とReex本体基盤の拡張取り付け部位近くにある印字が合うようにしてください。
   * Reex本体基盤の複数同じ印字がありますが、どちらに刺しても問題ありません。
   * 配線に関しては下記が画像を参考にしてください。
     
-  ![004](https://github.com/kushima8/Reex/assets/58157342/a9aae595-8347-4de2-82c6-530610e11b29)
-  ![014](https://github.com/kushima8/Reex/assets/58157342/2b6d489e-3de4-4b38-88c2-5ac5f2c6153f)
+  ![003](https://github.com/kushima8/Reex/assets/58157342/a9aae595-8347-4de2-82c6-530610e11b29)
+  ![013](https://github.com/kushima8/Reex/assets/58157342/2b6d489e-3de4-4b38-88c2-5ac5f2c6153f)
   * 接続後、キースイッチを取り付け入力可能かテストを行ってください。
   * 問題なければボトムプレートを配置し、4mmネジで固定してください。
 * 6.電線のはんだ付け
