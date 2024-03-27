@@ -35,7 +35,7 @@
 |名称|数量|備考|
 |----|:---:|----|
 |キースイッチ(Cherry MX互換)|5個|
-|キースイッチ(Kailh Choc V1互換)|5個|
+|キースイッチ(Kailh Choc V1互換)|5個|Lofree Ghost switchも可|
 |キーキャップ(Cherry MX互換)|5個|
 |キーキャップ(Kailh Choc V1互換)|5個|
 |電線|4本|
