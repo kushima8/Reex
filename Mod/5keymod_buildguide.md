@@ -6,6 +6,7 @@
 
 ![000](https://github.com/kushima8/Reex/assets/58157342/63ee6a6a-7309-4ae8-beef-7f4fae4904e8)
 ![001](https://github.com/kushima8/Reex/assets/58157342/30cf44a5-564a-49c6-b905-b379689555dd)
+![011](https://github.com/kushima8/Reex/assets/58157342/4be57ed3-bc97-40c7-bf42-0e7e43b32a3b)
 キー拡張は同一側に一つのみ増設可能です。  
 ロータリーエンコーダ拡張、トラックボール拡張との同一側での併用は可能です。  
 （例：○ 右側 1キー拡張＋ロータリーエンコーダ拡張、左側 3キー拡張＋トラックボール拡張  
