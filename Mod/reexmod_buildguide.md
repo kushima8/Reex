@@ -1,6 +1,7 @@
 # Reex Mod ビルドガイド
 ## はじめに
 
+![000](https://github.com/kushima8/Reex/assets/58157342/2c923e2b-3ef0-48cf-af4d-c82fc9649048)
 このたびはご購入いただきありがとうございます。<br>
 本製品は組み立てが必要なキットです。<br>
 
