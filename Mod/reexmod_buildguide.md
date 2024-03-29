@@ -43,13 +43,13 @@ Boothや遊舎工房など作者本人が販売または委託している箇所
 ### 用意しているファームウェアについて
 
 * reex56mod_default.hex
-  * VIA対応
+  * [VIA対応(Remap)](https://github.com/kushima8/Reex/tree/main/Reex56/VIA/mod)
   * レイヤー4枚　
   * 2番レイヤーのみボールを一定動かすと3番レイヤー(マウスレイヤー)に自動遷移  
     ボールを停止して一定時間経過か、LCTRLと設定したマウスキーやスクロールキー以外を押下すると遷移前レイヤーに戻る  
 
 * reex67mod_default.hex
-  * VIA対応
+  * [VIA対応(Remap)](https://github.com/kushima8/Reex/tree/main/Reex67/VIA/mod)
   * レイヤー4枚
   * 2番レイヤーのみボールを一定動かすと3番レイヤー(マウスレイヤー)に自動遷移  
     ボールを停止して一定時間経過か、LCTRLと設定したマウスキーやスクロールキー以外を押下すると遷移前レイヤーに戻る  
