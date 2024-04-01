@@ -24,5 +24,7 @@ https://shop.yushakobo.jp/products/7930
 
 ## ReexMod
 [ビルドガイド（日本語）](Mod/reexmod_buildguide.md)  
+https://cyberdeckarsenal.booth.pm/items/5617509  
+https://cyberdeckarsenal.booth.pm/items/4773963  
 
 ![120px-Cc-by-nc-sa_icon svg](https://user-images.githubusercontent.com/58157342/87903527-24883480-ca97-11ea-86a5-e6abcf258247.png)
