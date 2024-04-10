@@ -9,6 +9,7 @@ https://shop.yushakobo.jp/products/7930
   
 ![00](https://github.com/kushima8/Reex/assets/58157342/7abb2f23-e5d2-43d9-a5a9-e36094478a6b)
 ![01](https://github.com/kushima8/Reex/assets/58157342/b14c8ccc-9b4e-410d-996b-9e1b137d5095)
+![02](https://github.com/kushima8/Reex/assets/58157342/2c923e2b-3ef0-48cf-af4d-c82fc9649048)
 
 # Build Guide
 
