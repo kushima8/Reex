@@ -240,8 +240,15 @@ VIAとRemapについては下記のサリチル酸さんのサイトを参考に
 * reex67_default.hex
   * [VIA対応(Remap)](https://github.com/kushima8/Reex/tree/main/Reex67/VIA)
   * レイヤー4枚
-  * 2番レイヤーのみボールを一定動かすと3番レイヤー(マウスレイヤー)に自動遷移  
-    ボールを停止して一定時間経過か、LCTRLと設定したマウスキーやスクロールキー以外を押下すると遷移前レイヤーに戻る  
+  * １番レイヤーのみボールを一定動かすと3番レイヤー(マウスレイヤー)に自動遷移  
+    ボールを停止して一定時間経過か、LCTRLと設定したマウスキーやスクロールキー以外を押下すると遷移前レイヤーに戻る
+* reex67_12k.hex
+  * [VIA対応(Remap)](https://github.com/kushima8/Reex/tree/main/Reex56/VIA)
+  * レイヤー4枚
+  * １番レイヤーのみボールを一定動かすと3番レイヤー(マウスレイヤー)に自動遷移  
+    ボールを停止して一定時間経過か、LCTRLと設定したマウスキーやスクロールキー以外を押下すると遷移前レイヤーに戻る
+  * MAXCPI 12000（他ファームウェアはMAPCPI 3500）
+  * ワンショットキー機能、タッピング機能無効
 * reex67_test.hex
   * 動作確認用
   * [VIA対応(Remap)](https://github.com/kushima8/Reex/tree/main/Reex67/VIA)
