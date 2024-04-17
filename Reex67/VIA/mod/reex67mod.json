@@ -17,7 +17,10 @@
         {		"name": "SCRL_DVD", "title": "SCRL_DVD", "shortName": "SCRL_DVD"},
         {		"name": "AML_TO", "title": "AML_TO", "shortName": "AML_TO"},
         {		"name": "AML_I50", "title": "AML_I50", "shortName": "AML_I50"},
-        {		"name": "AML_D50", "title": "AML_D50", "shortName": "AML_D50"}
+        {		"name": "AML_D50", "title": "AML_D50", "shortName": "AML_D50"},
+        {		"name": "SSNP_VRT", "title": "SSNP_VRT", "shortName": "SSNP_VRT"},
+        {		"name": "SSNP_HOR", "title": "SSNP_HOR", "shortName": "SSNP_HOR"},
+        {		"name": "SSNP_FRE", "title": "SSNP_FRE", "shortName": "SSNP_FRE"}
     ],
     "layouts":{
         "keymap":[
