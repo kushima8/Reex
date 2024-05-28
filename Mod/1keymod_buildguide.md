@@ -72,6 +72,7 @@
   　・Reex本体基盤  
   　・7.5mmスペーサー  
   となるようにセットし、上から6mmネジで固定してください。 
+  7.5mmスペーサーを取り付ける際ネジ先が若干(0.8mm)ほどしか出ないため、ネジ頭をしっかり押してからスペーサーを取り付けてください。  
      
   ![003](https://github.com/kushima8/Reex/assets/58157342/5b2240a8-f2ca-4024-a4ef-9dead3db05cd)
   ![013](https://github.com/kushima8/Reex/assets/58157342/1ecca9d5-7ec1-409a-ab74-a7d17b140bfb)
