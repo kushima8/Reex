@@ -1,0 +1,52 @@
+| Code(hex) | Remap上での表記 | 説明 |
+|----|:---:|----|
+|0x7E40|User 0|NICOLA配列 1|
+|0x7E41|User 1|NICOLA配列 2|
+|0x7E42|User 2|NICOLA配列 3|
+|0x7E43|User 3|NICOLA配列 4|
+|0x7E44|User 4|NICOLA配列 5|
+|0x7E45|User 5|NICOLA配列 6|
+|0x7E46|User 6|NICOLA配列 7|
+|0x7E47|User 7|NICOLA配列 8|
+|0x7E48|User 8|NICOLA配列 9|
+|0x7E49|User 9|NICOLA配列 0|
+|0x7E4A|User 10|NICOLA配列 -|
+|0x7E4B|User 11|NICOLA配列 =|
+|0x7E4C|User 12|NICOLA配列 \|
+|0x7E4D|User 13|NICOLA配列 Q|
+|0x7E4E|User 14|NICOLA配列 W|
+|0x7E4F|User 15|NICOLA配列 E|
+|0x7E50|User 16|NICOLA配列 R|
+|0x7E51|User 17|NICOLA配列 T|
+|0x7E52|User 18|NICOLA配列 Y|
+|0x7E53|User 19|NICOLA配列 U|
+|0x7E54|User 20|NICOLA配列 I|
+|0x7E55|User 21|NICOLA配列 O|
+|0x7E56|User 22|NICOLA配列 P|
+|0x7E57|User 23|NICOLA配列 [|
+|0x7E58|User 24|NICOLA配列 ]|
+|0x7E59|User 25|NICOLA配列 A|
+|0x7E5A|User 26|NICOLA配列 S|
+|0x7E5B|User 27|NICOLA配列 D|
+|0x7E5C|User 28|NICOLA配列 F|
+|0x7E5D|User 29|NICOLA配列 G|
+|0x7E5E|User 30|NICOLA配列 H|
+|0x7E5F|User 31|NICOLA配列 J|
+|0x7E60|Any 0x7E60|NICOLA配列 K|
+|0x7E61|Any 0x7E61|NICOLA配列 L|
+|0x7E62|Any 0x7E62|NICOLA配列 ;|
+|0x7E63|Any 0x7E63|NICOLA配列 '|
+|0x7E64|Any 0x7E64|NICOLA配列 Z|
+|0x7E65|Any 0x7E65|NICOLA配列 X|
+|0x7E66|Any 0x7E66|NICOLA配列 C|
+|0x7E67|Any 0x7E67|NICOLA配列 V|
+|0x7E68|Any 0x7E68|NICOLA配列 B|
+|0x7E69|Any 0x7E69|NICOLA配列 N|
+|0x7E6A|Any 0x7E6A|NICOLA配列 M|
+|0x7E6B|Any 0x7E6B|NICOLA配列 ,|
+|0x7E6C|Any 0x7E6C|NICOLA配列 .|
+|0x7E6D|Any 0x7E6D|NICOLA配列 /|
+|0x7E6E|Any 0x7E6E|NICOLA配列 親指左|
+|0x7E6F|Any 0x7E6F|NICOLA配列 親指右|
+|0x7E70|Any 0x7E6F|NICOLA配列レイヤーに移動|TO（）やMO（）などのレイヤー移動コマンドではなくコチラを使用
+|0x7E71|Any 0x7E6F|QWERTY配列レイヤーに移動|TO（）やMO（）などのレイヤー移動コマンドではなくコチラを使用
