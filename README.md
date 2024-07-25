@@ -11,7 +11,8 @@ https://cyberdeckarsenal.booth.pm/items/4773963
 ![00](https://github.com/kushima8/Reex/assets/58157342/7abb2f23-e5d2-43d9-a5a9-e36094478a6b)
 ![01](https://github.com/kushima8/Reex/assets/58157342/b14c8ccc-9b4e-410d-996b-9e1b137d5095)
 ![02](https://github.com/kushima8/Reex/assets/58157342/2c923e2b-3ef0-48cf-af4d-c82fc9649048)
-
+![03](https://github.com/user-attachments/assets/ce31ee66-ab58-47e7-b266-4440c4df1737)
+![04](https://github.com/user-attachments/assets/c7987ab7-7416-48ff-affc-c94ee0945c3b)
 # Build Guide
 
 ## Reex56
