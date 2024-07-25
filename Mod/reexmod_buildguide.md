@@ -2,6 +2,8 @@
 ## はじめに
 
 ![000](https://github.com/kushima8/Reex/assets/58157342/2c923e2b-3ef0-48cf-af4d-c82fc9649048)
+![001](https://github.com/user-attachments/assets/ce31ee66-ab58-47e7-b266-4440c4df1737)
+![002](https://github.com/user-attachments/assets/c7987ab7-7416-48ff-affc-c94ee0945c3b)
 このたびはご購入いただきありがとうございます。<br>
 本製品は組み立てが必要なキットです。<br>
 
