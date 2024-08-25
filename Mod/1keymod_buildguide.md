@@ -44,7 +44,7 @@
 　下記赤枠はキースイッチ取り付け位置です。  
 　ソケットの実装は赤枠の裏に行ってください。  
 
-  ![002](https://github.com/user-attachments/assets/f75f32ea-d46a-4004-a88c-51ebf5814c06)
+  ![002](https://github.com/kushima8/Reex/assets/58157342/4b6325ff-d3ba-44c5-8215-0f70e960622b)
 
 * 1.7Pinコンスルー加工と差し替え
   * Reex基盤本体とトラックボール用センサーボードの接続に用いている8Pinコンスルーをニッパーなどを使い7Pinコンスルーに加工します。  
