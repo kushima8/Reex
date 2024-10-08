@@ -30,6 +30,12 @@ https://shop.yushakobo.jp/products/7930
 https://cyberdeckarsenal.booth.pm/items/5617509  
 https://cyberdeckarsenal.booth.pm/items/4773963  
 
+## Reex56Mod (Reex56 + ReexMod)
+https://shop.yushakobo.jp/products/9454  
+
+## Reex67Mod (Reex67 + ReexMod)
+https://shop.yushakobo.jp/products/9455  
+
 ## Trackball module
 https://github.com/kushima8/PMW3360
 
