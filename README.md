@@ -38,7 +38,7 @@ https://shop.yushakobo.jp/products/9454
 ## Reex67Mod (Reex67 + ReexMod)
 https://shop.yushakobo.jp/products/9455  
 
-## Trackball module
+## Trackball Module ＆ Case
 https://github.com/kushima8/PMW3360
 
 ![120px-Cc-by-nc-sa_icon svg](https://user-images.githubusercontent.com/58157342/87903527-24883480-ca97-11ea-86a5-e6abcf258247.png)
