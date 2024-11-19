@@ -35,7 +35,7 @@ ReexModはReex56とReex67に対応した拡張基板です。
   
 ![001](https://github.com/kushima8/Reex/assets/58157342/cbe7db9d-ee5f-43ee-a784-e19502ed3e28)  
   
-BoothなどでReexModセットを入手した場合は下記のパーツリストを参考に封入物の確認をお願いします。  
+Boothなどで各種拡張基盤が一緒になった、ReexModセットを入手した場合は下記のパーツリストを参考に封入物の確認をお願いします。  
 [ReexModセットパーツリスト](reexmodset_partslist.md)  
   
 各種ReexModごとにビルドガイドを用意しております。  
